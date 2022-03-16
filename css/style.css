@@ -61,8 +61,6 @@ img {
 /* SITE-HERO */
 .site-hero {
     display: flex;
-    justify-content: center;
-    align-items: center;
     width: 100%;
     max-width: 600px;
     padding: 24px;
@@ -149,7 +147,6 @@ img {
 
 .section-right-heading {
     display: inline-block;
-    margin-top: 54px;
     margin-bottom: 24px;
     font-style: normal;
     font-weight: 400;
